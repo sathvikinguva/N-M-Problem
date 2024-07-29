@@ -1,0 +1,10 @@
+.queen-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.queen {
+  font-size: 2rem;
+  cursor: grab;
+}

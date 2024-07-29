@@ -1,0 +1,42 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: lightblue;
+  text-align: center;
+}
+
+h1 {
+  margin: 0;
+  background-color: lightcoral;
+  width: 100%;
+}
+
+h2 {
+  margin-top: 20px;
+  background-color: lightgreen;
+  width: 100%;
+}
+
+.input-container {
+  margin-bottom: 20px;
+}
+
+.input-container label {
+  margin-right: 10px;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  gap: 20px; 
+}
+
+.queens {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
